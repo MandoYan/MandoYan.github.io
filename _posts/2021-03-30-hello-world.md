@@ -1,6 +1,6 @@
 ---
 title: mando 你好！
-date: 2024-01-30 11:37:56
+date: 2024-01-30 11:37:56 +8000
 categories: [随笔]
 tags: [生活]
 pin: true
