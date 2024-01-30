@@ -1,10 +1,10 @@
 ---
-title: 你好，世界！
+title: mando 你好！
 date: 2022-03-26 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
 pin: true
-author: 湾区书记汤姆
+author: mandoyan
 
 toc: true
 comments: true
