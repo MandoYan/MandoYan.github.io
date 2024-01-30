@@ -13,7 +13,7 @@ baseurl: ''
 lang: zh-CN
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
-prefer_datetime_locale: Asia/Shanghai
+prefer_datetime_locale: Asia/Beijing
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone:
@@ -32,10 +32,10 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://github.com/MandoYan'
 
 github:
-  username: MandoYan             # change to your github username
+  username: mandoyan             # change to your github username
 
 twitter:
-  username: MandoYan123            # change to your twitter username
+  username: mandoyan123            # change to your twitter username
 
 social:
   # Change to your full name.
