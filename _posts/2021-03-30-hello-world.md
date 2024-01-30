@@ -1,8 +1,8 @@
 ---
-title: 你好，世界！
+title: 你好，mando！
 date: 2022-03-30 10:34:00 +0800
-categories: [随笔]
-tags: [生活]
+categories: [其他]
+tags: [其他]
 pin: true
 author: MandoYan
 
