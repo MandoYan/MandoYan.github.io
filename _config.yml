@@ -29,10 +29,10 @@ description: >-                        # used by seo meta and the atom feed
     这是通过Chirpy主题配置而成的
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://mandoyan.github.io/'
+url: 'https://github.com/MandoYan'
 
 github:
-  username: MandoYan             # change to your github username
+  username: tomstillcoding             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
