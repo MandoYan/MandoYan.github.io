@@ -19,10 +19,13 @@ mermaid: true
 
 
 这里可以放代码片段噢～
-```c++
+```python
 //代码片段
 int main(){
   hello world;
 }
+
+
+// new lines
 ```
 
