@@ -45,7 +45,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/mandoyan123      # change to your twitter homepage
-        - https://github.com/mandoyan       # change to your github homepage
+    - https://github.com/mandoyan       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -64,7 +64,6 @@ google_analytics:
 
 # Prefer color scheme setting.
 #
-
 # Note: Keep empty will follow the system prefer color by default,
 # and there will be a toggle to switch the theme between dark and light
 # on the bottom left of the sidebar.
