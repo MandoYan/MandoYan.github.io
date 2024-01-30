@@ -1,6 +1,6 @@
 ---
 title: mando 你好！
-date: 2022-03-26 10:34:00 +0800
+date: 2024-01-30 11:37:56
 categories: [随笔]
 tags: [生活]
 pin: true
@@ -14,15 +14,17 @@ mermaid: true
 
 ---
 
-# 感谢关注～ 
+# 这里是标题～ 
 
 
 这里可以放代码片段噢～
-```c++
+```python
 //代码片段
 int main(){
   hello world;
 }
+
+dfdasf 
 ```
 
 
